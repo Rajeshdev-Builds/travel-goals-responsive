@@ -1,0 +1,27 @@
+header a:hover {
+  color: #fff;
+  background-color: #cf1b1b;
+  font-style: normal;
+  border-radius: 0.938rem;
+  letter-spacing: 0.625rem;
+  box-shadow:
+    0.438rem 0.438rem 0.875rem #d53f3f,
+    -0.438rem -0.438rem 0.875rem #982626;
+}
+
+#travel-content a:hover {
+  color: #fff;
+  background-color: #cf1b1b;
+  letter-spacing: 0.625rem;
+  box-shadow:
+    0.438rem 0.438rem 0.875rem #a29a9a,
+    -0.438rem -0.438rem 0.875rem #b6b0b0;
+}
+
+#item-content a:hover {
+  color: #fff;
+  box-shadow:
+    0.438rem 0.438rem 0.875rem #d53f3f,
+    -0.438rem -0.438rem 0.875rem #982626;
+  border-radius: 0.938rem;
+}
